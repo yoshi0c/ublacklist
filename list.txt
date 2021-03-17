@@ -1,0 +1,5 @@
+*://techacademy.jp/*
+*://udemy.benesse.co.jp/*
+*://(www.)?udemy.com/*
+*://dev.classmethod.jp/*
+*://www.sejuku.net/*
